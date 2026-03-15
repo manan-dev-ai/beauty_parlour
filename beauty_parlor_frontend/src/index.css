@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #fdfbff; /* soft off-white with purple hint */
+  color: #111827; /* slate-900 */
+}
